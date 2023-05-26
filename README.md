@@ -1,1 +1,5 @@
 # GIT-Padepokan79
+
+LATIHAN GIT 79
+
+--SEMANGAT--
